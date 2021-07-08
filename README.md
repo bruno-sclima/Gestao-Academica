@@ -21,3 +21,5 @@ c) Utilizar exceções para impedir o lançamento de notas incorretas na ativida
 d) Imprimir corretamente o histórico de um aluno conforme especificado.
 
 e) Escrever um programa principal ou caso de teste para testar os métodos de 2 alunos matriculados na mesma disciplina, um de graduação e um de pós-graduação.
+
+![enter image description here](UML/UML-gestAcad.jpeg)
